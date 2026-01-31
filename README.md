@@ -1,60 +1,54 @@
-<h1 align="center">Hi there, I'm Labony Sur 👋</h1>
+<h1 align="center">Hi there, I'm Labony Sur</h1>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/in-love-cat-typing-on-laptop-k0rljq9nsfcfmsxv.webp" width="300px" alt="Cat Typing GIF">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNpbTZrcm44aXk4c21qaGhtbjB0M3VieGRpbG14NHp0b2V6YXFtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="300px" alt="Typing GIF">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FAD961&size=22&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+AI+Enthusiast+%7C+Web+Developer;Python+%7C+Flask+%7C+MySQL+%7C+JavaScript+%7C+HTML%2FCSS;Tech+Explorer+%7C+Clean+Code+Lover+%7C+Consistent+Learner" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.herokuapp.com?font=Poppins%26color=A9B1D6%26size=22%26center=true%26vCenter=true%26width=700%26lines=Aspiring+AI+Engineer;Building+Intelligent+Systems;Python+%7C+Generative+AI+%7C+C%2B%2B" />
 </p>
 
----
+<div align="center">
 
-##  About Me
+About Me
 
-- ⏵ CSE student at **Daffodil International University** (Bangladesh)
-- ⏵ Focused on **AI, Web Development, and Data Science**
-- ⏵ Working on **Python, Flask, MySQL, HTML/CSS/JS** & **AI moderation systems**
-- ⏵ Continuously improving my **problem-solving, design thinking**, and **discipline skills**
+I am a final-year Computer Science & Engineering student at Daffodil International University, driven by a deep curiosity for Artificial Intelligence.
 
----
+My focus is on mastering the engineering behind intelligent systems. I am currently deep-diving into Large Language Models (LLMs), RAG architectures, and Model Fine-tuning. My goal is to transition from academic theory to building scalable, efficient AI solutions.
 
-## 🛠 Tech Toolbox
+Focus: Advanced RAG implementation & LLM Optimization
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
-###  Frontend + Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labonysur-cloud&show_icons=true&theme=omni&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labonysur-cloud&theme=omni&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labonysur-cloud&layout=compact&theme=omni&hide_border=true" width="48%" />
-</p>
+Goal: To become a specialized AI Engineer
 
----
+Technical Arsenal
 
-##  Connect With Me
+AI & Machine Learning
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/labony-sur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/labonysur-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:labonysur473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hugging%2520Face-FFD21E%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gradio-FD9102%3Fstyle%3Dfor-the-badge%26logo%3Dgradio%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit_Learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
 
----
+Core & Web
 
-<p align="center">
-  <strong>"Making the coding journey more engaging and effective."</strong>   
-</p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" />
 
+GitHub Statistics
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dlabonysur-cloud%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dlabonysur-cloud%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" width="48%" />
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dlabonysur-cloud%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" width="60%" />
+
+<em>"Intelligence is the ability to adapt to change." — Stephen Hawking</em>
+
+</div>
